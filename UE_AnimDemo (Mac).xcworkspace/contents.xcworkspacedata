@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Engine">
+      <FileRef
+         location = "group:Intermediate/ProjectFiles/UnrealEditor (Mac).xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Intermediate/ProjectFiles/UnrealGame (Mac).xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Games">
+      <Group
+         location = "container:"
+         name = "UE_AnimDemo">
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:UE_AnimDemoEditor.Target.cs">
+            </FileRef>
+            <Group
+               location = "group:UE_AnimDemo"
+               name = "UE_AnimDemo">
+               <FileRef
+                  location = "group:UE_AnimDemo.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UE_AnimDemo.Build.cs">
+               </FileRef>
+               <FileRef
+                  location = "group:UE_AnimDemo.cpp">
+               </FileRef>
+               <Group
+                  location = "group:Public"
+                  name = "Public">
+                  <FileRef
+                     location = "group:MyAnimInstance.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimationStateMachine.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimationState.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimCppChar.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PlayerSettingsWidget.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimTestGameInstance.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimTestActor.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimTestCharacter.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PlayerSettingsSave.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimDemoGameMode.h">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Private"
+                  name = "Private">
+                  <FileRef
+                     location = "group:MyAnimInstance.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimationStateMachine.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimCppChar.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PlayerSettingsWidget.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimTestGameInstance.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PlayerSettingsSave.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimTestCharacter.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimTestActor.cpp">
+                  </FileRef>
+                  <FileRef
+                     location = "group:AnimDemoGameMode.cpp">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:UE_AnimDemo.Target.cs">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:PlayerSettingsSave.h">
+         </FileRef>
+         <FileRef
+            location = "group:Intermediate/ProjectFiles/UE_AnimDemo (Mac).xcodeproj">
+         </FileRef>
+         <FileRef
+            location = "group:Intermediate/ProjectFiles/UE_AnimDemoEditor (Mac).xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Programs">
+      <Group
+         location = "container:"
+         name = "Automation">
+      </Group>
+      <Group
+         location = "container:"
+         name = "UnrealBuildTool.Plugins">
+      </Group>
+      <Group
+         location = "container:"
+         name = "Shared">
+      </Group>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Rules">
+   </Group>
+</Workspace>

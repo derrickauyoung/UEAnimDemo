@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54ADB7FE-9012-48BA-9EF0-27832A6AE351"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AEDC809-8F70-4841-B52A-F8C2F9DD8116"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/UE_AnimDemo/Private/AnimTestCharacter.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "AAnimTestCharacter::SetupPlayerInputComponent(PlayerInputComponent)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5809DFD8-3AFF-4FF6-B81F-445593C5F53C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/UE_AnimDemo/Private/AnimTestCharacter.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "AAnimTestCharacter::SetupPlayerInputComponent(PlayerInputComponent)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D556107-CCA0-4837-B7E4-B669A284799B"
+            shouldBeEnabled = "Yes"
+            nameForDebugger = "MoveBreakPoint"
+            condition = "Value.Get&lt;FVector2D&gt;().Length() &gt; 0.1f"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/UE_AnimDemo/Private/AnimTestCharacter.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "AAnimTestCharacter::Move(Value)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
